@@ -1,0 +1,19 @@
+.header {
+    background-color: orange;
+    display: flex;
+}
+
+.logo {
+    margin-left: 100px;
+    width: 110px;
+    height: 90px;
+}
+
+.headertitle {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 900;
+    font-size: 52px;
+    text-shadow: -2px 7px 7px black;
+}
